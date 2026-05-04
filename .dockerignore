@@ -1,0 +1,8 @@
+webapp/
+notebooks/
+data/generate_dataset.py
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+.env
+.git
